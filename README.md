@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geofanno Maycellino</h1>
 <h3 align="center">I'm a Student, and Developer!</h3>
+<img alt="Gmail" src="https://img.shields.io/badge/hello.geofanno710@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <img alt="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img alt="Gmail" src="https://img.shields.io/badge/geofanno710@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geofanno&label=Profile%20views&color=0e75b6&style=flat" alt="geofanno" /> </p>
 
