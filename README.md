@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geofanno Maycellino</h1>
-<h3 align="center">I'm a Student, and Developer!</h3>
+<h3 align="center">I'm a Student!</h3>
 <img alt="right" alt"Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geofanno&label=Profile%20views&color=0e75b6&style=flat" alt="geofanno" /> </p>
