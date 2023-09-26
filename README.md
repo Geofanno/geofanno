@@ -1,9 +1,11 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/geofanno/" target="_blank"> Geofanno Maycellino </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-- 🌱 Learning Never Stops 🚀
+- 🌱 I’m a Fresh Graduated from Bumigora University 🚀
 
 - 💬 Ask me about **Web Development, PHP, Laravel MySQL**
+
+- 🌱 I’m currently learning React Frontend & Backend
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://geofanno.github.io/" target="_blank">Portfolio</a>**
 
